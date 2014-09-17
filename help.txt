@@ -1,0 +1,3 @@
+{yellow}{bold}Having trouble with a {appname} exercise?{/bold}{/yellow}
+
+Ask your tutors :)
